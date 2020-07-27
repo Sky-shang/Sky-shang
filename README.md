@@ -1,6 +1,4 @@
-### Hi there 👋
-
-![counter](https://en6o3ld3xi3ia0y.m.pipedream.net)
+### Hi there 👋 ![counter](https://en6o3ld3xi3ia0y.m.pipedream.net)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
