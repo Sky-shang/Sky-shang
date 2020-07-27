@@ -1,9 +1,6 @@
 ### Hi there 👋
+
 ![counter](https://en6o3ld3xi3ia0y.m.pipedream.net)
-
-**Sky-shang/Sky-shang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
