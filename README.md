@@ -9,3 +9,12 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=sky-shang&show_icons=true)
+
+My name is **sky-shang**
+
+- 🔭 I’m currently working on [Dice · a cloud native PaaS](https://dice.terminus.io).
+- 🖖 I’m currently focusing on large scale monitoring system.
+- 🌱 I’m currently learning distributed system.
+- 💕 I’m a cloud computing enthusiast.
